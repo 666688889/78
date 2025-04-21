@@ -1,0 +1,1 @@
+console.log('AutoTrade front-end loaded');
